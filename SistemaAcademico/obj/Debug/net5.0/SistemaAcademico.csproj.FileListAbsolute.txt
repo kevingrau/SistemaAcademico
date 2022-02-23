@@ -1,0 +1,16 @@
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.exe
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.deps.json
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.runtimeconfig.json
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.runtimeconfig.dev.json
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.dll
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\ref\SistemaAcademico.dll
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.pdb
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.AssemblyInfoInputs.cache
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.AssemblyInfo.cs
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.dll
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\ref\SistemaAcademico.dll
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.pdb
+C:\Users\TEMP.ETEHORT.163\3D Objects\Kevin\Solucao\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.genruntimeconfig.cache
