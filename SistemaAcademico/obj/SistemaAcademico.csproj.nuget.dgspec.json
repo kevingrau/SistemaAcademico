@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TEMP.ETEHORT.163\\3D Objects\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj": {}
+    "C:\\Users\\alunos\\3D Objects\\ETEC\\Jacksson\\DS\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TEMP.ETEHORT.163\\3D Objects\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj": {
+    "C:\\Users\\alunos\\3D Objects\\ETEC\\Jacksson\\DS\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TEMP.ETEHORT.163\\3D Objects\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj",
+        "projectUniqueName": "C:\\Users\\alunos\\3D Objects\\ETEC\\Jacksson\\DS\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj",
         "projectName": "SistemaAcademico",
-        "projectPath": "C:\\Users\\TEMP.ETEHORT.163\\3D Objects\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj",
-        "packagesPath": "C:\\Users\\TEMP.ETEHORT.163\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TEMP.ETEHORT.163\\3D Objects\\Kevin\\Solucao\\SistemaAcademico\\obj\\",
+        "projectPath": "C:\\Users\\alunos\\3D Objects\\ETEC\\Jacksson\\DS\\Kevin\\Solucao\\SistemaAcademico\\SistemaAcademico.csproj",
+        "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alunos\\3D Objects\\ETEC\\Jacksson\\DS\\Kevin\\Solucao\\SistemaAcademico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\TEMP.ETEHORT.163\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

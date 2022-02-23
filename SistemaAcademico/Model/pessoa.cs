@@ -8,8 +8,10 @@ namespace SistemaAcademico.Model
 {
     class pessoa
     {
-        public long cpf;
+        public string cpf;
         public string nome;
         public DateTime dataNascimento;
+        public string endereco;
+        public string telefone;
     }
 }
